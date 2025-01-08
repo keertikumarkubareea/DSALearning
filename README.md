@@ -16,30 +16,41 @@ LeetCode is my go-to platform for practicing coding interview problems. I’m sp
 
 ---
 
-## 📂 **Repository Structure**  
+## 📂 **Repository Structure**
 
-.
-├── book-exercises/
-│   ├── chapter1/
-│   ├── chapter2/
-│   ├── …
-│   └── chapterN/
-├── leetcode-practice/
-│   ├── company-wise/
-│   │   ├── google/
-│   │   ├── amazon/
-│   │   ├── facebook/
-│   │   └── …
-│   └── problem-category/
-│       ├── arrays/
-│       ├── linked-lists/
-│       ├── dynamic-programming/
-│       └── …
-├── progress-tracking/
-│   ├── book-progress.md
-│   ├── leetcode-progress.md
-│   └── company-wise-progress.md
-└── README.md
+Here’s how this repository is organized:
+
+- **`book-exercises/`**  
+  Solutions to exercises and implementations of concepts from the book "Hands-On Data Structures and Algorithms with Python."  
+  - `chapter1/`: Exercises and examples from Chapter 1.  
+  - `chapter2/`: Exercises and examples from Chapter 2.  
+  - ...  
+  - `chapterN/`: Exercises and examples from Chapter N.  
+
+- **`leetcode-practice/`**  
+  Solutions to LeetCode problems categorized for focused practice.  
+  - **`company-wise/`**  
+    Problems grouped by companies:  
+    - `google/`: Problems frequently asked at Google.  
+    - `amazon/`: Problems frequently asked at Amazon.  
+    - `facebook/`: Problems frequently asked at Facebook.  
+    - ...  
+
+  - **`problem-category/`**  
+    Problems sorted by topic:  
+    - `arrays/`: Array-related problems.  
+    - `linked-lists/`: Linked list problems.  
+    - `dynamic-programming/`: Problems involving DP.  
+    - ...  
+
+- **`progress-tracking/`**  
+  Tracking my learning and problem-solving progress:  
+  - `book-progress.md`: Logs my progress through the book.  
+  - `leetcode-progress.md`: Tracks the number and difficulty of LeetCode problems solved.  
+  - `company-wise-progress.md`: Tracks problems solved by company.  
+
+- **`README.md`**  
+  You’re reading it! Contains an overview of the repository, goals, and structure.
 
 
 
